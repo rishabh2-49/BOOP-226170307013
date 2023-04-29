@@ -27,7 +27,7 @@ int main () {
 			ans = a%b;
 			break;
 		case 6: 
-			cout << "Rhanks for using...";
+			cout << "Thanks for using...";
 			exit(0);
 	}
 	cout << "Ans is "<<ans<<".";
